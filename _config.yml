@@ -1,6 +1,6 @@
 name: Smell The Rage
 favicon: null
-layout_spectrum: 0.9438795696478337
+layout_spectrum: 0.99819
 typography_spectrum: 0.22764312662184238
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.4396766044665128
-  lightness: 0.2540985078085214
-  saturation: 0.35204554279334843
-  rhythmicContrast: 0.27037969301454723
+    - '#c6b69f'
+    - '#31271d'
+    - '#675b4b'
+    - '#020200'
+    - '#999276'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
